@@ -3,3 +3,9 @@ vincent:
  last_name: "Ha"
  email: "vincent.ha@gushcloud.com"
  profile_name: "vincentha"
+
+vincent1:
+ first_name: "Vincent1"
+ last_name: "Ha1"
+ email: "vincent@gushcloud.com"
+ profile_name: "vincentha1" 
